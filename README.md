@@ -119,7 +119,7 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from D
 <hr/>
 
 ## 👋 Reach out to me 
-  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&labelColor=EA4335&logo=Gmail&logoColor=white)](zack_zhengxiyun@163.com)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&labelColor=EA4335&logo=Gmail&logoColor=white)](mailto:zack_zhengxiyun@163.com)
   [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/zackzheng94)
   
 <hr/>
