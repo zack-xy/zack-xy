@@ -3,7 +3,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zack-xy.zack-xy)
 
 
-<img align='right' src='./imgs/zack-xy-MarkMakerLogo.png' width='300"'>
+<img align='right' src='https://user-images.githubusercontent.com/18522167/180609440-aee8efa0-d6eb-4f4a-b551-de00ae291b97.png' width='300"'>
+
+
+
 
 
 Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from Dalian, China and currently reside in Shanghai. My dream is to be a Full Stack Developer and I want to contribute code to famous open source projects.I love to do web development and open to learning new technologies.
@@ -91,10 +94,10 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from D
 </table>
 
 
-<hr/>
+<!-- <hr/> -->
 
 
-## :books: Technologies I'm Learning  
+<!-- ## :books: Technologies I'm Learning  
 #### Software:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white)  ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)  ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
@@ -111,13 +114,13 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from D
 
 #### Editors and Operating Systems:
 
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![MobaXterm](http://img.shields.io/badge/-MobaXterm-000000?style=flat-square&logo=iTerm2&logoColor=ffffff) ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![MobaXterm](http://img.shields.io/badge/-MobaXterm-000000?style=flat-square&logo=iTerm2&logoColor=ffffff) ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff) -->
 
 <hr/>
 
 ## 👋 Reach out to me 
-- <img style="vertical-align: middle;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAADSklEQVRoge2ZzU8TQRjGn2mXD8uHhXaNJIoEDpDUD2L0H1C4cODER6He0GjikZgQvfRi4sGEGEy4oAcSaPm4GE2MBP4CY2LUanuAEDCBuF2sUspHd3c8NEVT2aUzOwVN+ru+MzvPM/vO++60QJEiRYocJyTfgWcfrp8nTu0mQNoANACoEKxlC8AyQOepLo2tPjj9KZ9JhxrwBSOlyTL3MCW4A8BhV2We6JRitHo3MRgJ+vasBloa8AUjpZvl7tcArgmVlz8LVTuJDisTljuaLHMP4/jEA8D1zXL3Y6sBpm8gk/P6ewBO4bLY0AHHpZWhushBQdM3QBz6LRy/eABwEtABs6B5ChG0FUQOB5QY7WYxqzNQXwAtfFByzixkZaCyAFJ4qTILHFVdLxgSz6TGWgmzAS88LjH+1ZSBrok4ljY05rnMChprJSxtaOgLx6GmDOYFc1FTBvrCGfGNtez7yWxgNuBFi1yCmKKhezKOb0mdedEsaspAf1hFTNHQ5JEw3e9lfgazAY/LgUm/By1yCRZVDf6wymUiKz6qpNHkkTDV54VcwZ6SXEls14Qo8YCNKsRrQqR4wGYZZTUhWjwgoA9kTTTLEhZVDTem1QOrU7baRJU0mmUJM/32xQMFaGQxRUPnuIJX0W3EtwzEtwy8/LKNznEFMYW9zh8GVyP7k+zOxhQNzbKE6jIH3n7dw90X3/8ae/VMKX7uGogpmT4S8ttvhrYM5IoP+b04WU4w9SGFmY/biCppAECLXIKeCy70XDyBHzt0f44IE9wGcpvQRO9vIYHWCgRaD77ze1wEIb93/zB3T8YR9ntwqpLv6sFl3W41EdUMAQ4DokqhKBPMK3dNiCuFuSW4N6QyP4N59exXo4gKAmRMhPze/a9cVrgO8dKGhssj6zxThfPf38isDGwemYrD+WkWsDKwWgAhfBC6YhayMEDnCqGFBwrHG7OYhQHnGAD++6I4dKKT52ZBUwMrQ3URSjFaGE0s0Kcr9+s+m0Utq1D1bmIQwIJwTfkzL9es37MaYGkgEvTtVe0kOgCM4GjTSQPoE7lmrePd7Stpq4F5/8VU/2jNR0AHKDHaQUkDxP/0mAShy4Q65qhBnlmlTZEiRYr8O/wCXRqFx39KjIoAAAAASUVORK5CYII="> zack_zhengxiyun@163.com
-- <img style="vertical-align: middle;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAE20lEQVRoge3YW2yTdRgG8Odta8GBzh3KoIOd7BzxiGICISCi3GDigQQmEYMYgk4JckEGKGAaTTSiaAwCTsF5gSEuiiEGvSIalwWIohciCE4YbMDKtnbrTh3t9z5ebMWNfB/raRsXfe6+Nf+3v6f/r/2WP5BOOumkk04SkbF408LdVx5UkRVULiRlGkAniYtUHlEba3xr8g5BhGZrsz6+VBBY574QvbYsULa/290XyvA3vCihVMFLqvyZYeVuQJeREBIACBJg/wVIgsRREa5qfm3Kyeja7O3NswXGJqr86690rx+2wN1fdX1BSuYpZ0Y5ysVIFj9tR4ubDjks4PR+sCV+4FraCW4leS+IRSQLSPjtevWelg3FzTcs4PmB45z+nlaAEwF8OSl/wuqfF0gkUXxR9bnxRui2WoAPx4aH2WsRIZa0VeYfHDzbZvaG4/w99w/gQXJlc2P3gZlVzEi0QKR34tok8d0gl9t49VjWtguvZL3X9DpIsSxAgXvwYIBPdo0P1pXtDZbFrffSIYINSeABsJHA9jAclwFZB/btin7JTQuIoZ3/L44Okhm083hpdXsFvDRdZ5Z8V+s8ErlJ4EFiOsmpAJoiEXkqsOnOjuh8U0jYbjQMxV8bNIHEbk9Bx6/F1f55sRQQG+9LEj/wd/7uIGd1vjH1zOD5pgXO/JPZAEiD+SCA5ENiyC/FewK1hZ8FFqOGdqsCpM2VPB5nx4nzkdaNBZeun29+K3hFCe658ScHgJwr4IHCQNvloqq2qsJPrzxRsKs9a/AoobYmiQfJdl/l5G4zquVzwLOv7XZbxPEHiRJTvEUxgCRxhorTAjYaQB7IJYnjAYJ1wY0Fc82cDqsC9c/nBD3VHctBHgaQESMe7H/ClkFYpkR0QeL4/teCVk7TW6i0uuO5u6qDNYDhAvACSV+M+GR+Kq3wAHntf5/rY7EDbFFyKWBbGscnPzJ4EArWWxUw3QGbho8CCN8MeBIQ4nhcBU6vcnWS+t3NgCcZ7go7j8VVAADE4Fsk+sYYDwhq4XX3xF2g/qWcvwCuH1M8ACq+tTLesAAAnFudvZPK9QAiY4In+2yRyDcJFwCA8xU5H0Iwn2TdKOMBYH+X13MlqQKFVS1TDDXuEOhGAl4q/KOBJ6E2MbYP57N8Ekdjh71HaXytlIkkABkVPATY17XZc2I437A7cPbl7A6lvDNat80APkgxtgxni6kAAFzMzdkG8NBo4AFAicreLZ7GlBVAuRiRHn1Wge9HGg/yYGhr0ecxuWIuAMBXObm7eY3raSVXkWgYCTzJU71qrLA61DJLYidzNbS7mi7PgU3mULkMwIwU4M9D5dGQt7ghHkrMOzAk5WKEpe9PKksBPJAavP2xePFAAjvg/uBSbtiBCirWApiUAvwRux2LuzeX+OK1xFwg7yNfCYQLCH2clGdI3joUkhBeobqjl7ZN8BYnfP46tAApU3e2LIoAFSBzQbpITCajp3Sp+cIScgLUV0NvltQmCjcvMJD8T5pyIoZjM4DVKcVD6qn6dkiL98ErmizeskA0ee83T1Anl0CxkuR8AJIAPqDKHwnZG9pS+FM8P5FJFxiczHfPZ9lucc4W6iwRzlQin2Q2BDlUjCfZSSIA0KeUk4D+rWBtr6fot1Qcz6eTTjrppDMi+Q8fgF/hmeYFBwAAAABJRU5ErkJggg==">https://twitter.com/zackzheng94
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&labelColor=EA4335&logo=Gmail&logoColor=white)](zack_zhengxiyun@163.com)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/zackzheng94)
   
 <hr/>
 <p>
