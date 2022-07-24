@@ -124,7 +124,7 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from D
   
 <hr/>
 <p>
-<a href="https://github.com/ZackZheng-xy">
+<a href="https://github.com/zack-xy">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zack-xy&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-xy&theme=buefy&layout=compact" />
 </a>
