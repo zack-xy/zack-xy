@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zack Zheng! :stars: </h1>
+<h1 align="center">Hello World! :stars: </h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zack-xy.zack-xy)
 
@@ -128,5 +128,9 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from D
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zack-xy&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-xy&theme=buefy&layout=compact" />
 </a>
+</p>
+<p>
+
+![Graph](https://activity-graph.herokuapp.com/graph?username=zack-xy&theme=github)
 
 </p>
