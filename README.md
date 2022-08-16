@@ -9,7 +9,7 @@
 
 
 
-Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from Dalian, China and currently reside in Shanghai. My dream is to be a Full Stack Developer and I want to contribute code to famous open source projects.I love to do web development and open to learning new technologies.
+Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from Dalian, China and currently reside in Shanghai. I like anime, I'm a non-professional fan of One Piece.I am also a science fan, I like to watch various types of popular science videos.And I like to hike,hiking in nature always gives me great peace of mind.Programming is my job and part of my life.I love to do web development and open to learning new technologies.I dream to be a good software engineer, I still need a lot of learning and practice, I will always be on the way to become better.
 <br/><br/><br/><br/>
 
 
