@@ -93,29 +93,6 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from D
   </tbody>
 </table>
 
-
-<!-- <hr/> -->
-
-
-<!-- ## :books: Technologies I'm Learning  
-#### Software:
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white)  ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)  ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-
-#### Front-end:
-
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632) ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
-
-#### Back-end:
-
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;logo=MongoDB&amp;logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-
-
-#### Editors and Operating Systems:
-
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![MobaXterm](http://img.shields.io/badge/-MobaXterm-000000?style=flat-square&logo=iTerm2&logoColor=ffffff) ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff) -->
-
 <hr/>
 
 ## 👋 Reach out to me 
