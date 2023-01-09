@@ -108,6 +108,6 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from D
 </p>
 <p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zack-xy&bg_color=ffffff&color=765005&line=09a7d3&point=f47a75&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![zack's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zack-xy&bg_color=ffffff&color=765005&line=09a7d3&point=f47a75&area=true&hide_border=true)](https://github.com/zack-xy/zack-xy)
 
 </p>
