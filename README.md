@@ -1,7 +1,5 @@
 <h1 align="center">Hello World! :stars: </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zack-xy.zack-xy)
-
 
 <img align='right' src='https://user-images.githubusercontent.com/18522167/180609440-aee8efa0-d6eb-4f4a-b551-de00ae291b97.png' width='300"'>
 
