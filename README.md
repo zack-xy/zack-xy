@@ -1,19 +1,16 @@
 <h1 align="center">Hello World! :stars: </h1>
 
 
-<img align='right' src='https://user-images.githubusercontent.com/18522167/180609440-aee8efa0-d6eb-4f4a-b551-de00ae291b97.png' width='300"'>
+<!-- <img align='right' src='https://user-images.githubusercontent.com/18522167/180609440-aee8efa0-d6eb-4f4a-b551-de00ae291b97.png' width='300"'> -->
 
 
+Hey there! :smile: My name is Zack Zheng. I'm a web developer and [blogger](https://zack-xy.github.io/knownNet/) from Dalian, China and currently reside in Shanghai. I like anime, I'm a fan of One Piece. A science popularization enthusiast, I like to watch various types of popular science videos. A food enthusiast. A nature lover.
+<br/>
 
 
+<!-- ## 💻 Projects -->
 
-Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from Dalian, China and currently reside in Shanghai. I like anime, I'm a non-professional fan of One Piece.I am also a science fan, I like to watch various types of popular science videos.And I like to hike,hiking in nature always gives me great peace of mind.Programming is my job and part of my life.I love to do web development and open to learning new technologies.I dream to be a good software engineer, I still need a lot of learning and practice, I will always be on the way to become better.
-<br/><br/><br/><br/>
-
-
-## 💻 Projects
-
-<table>
+<!-- <table>
   <thead align="center">
     <tr style="background-color:#B3DEE5">
       <th>Project</th>
@@ -89,7 +86,7 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and blogger from D
       </th>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <hr/>
 
