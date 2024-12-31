@@ -90,11 +90,6 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and [blogger](http
 
 <hr/>
 
-## 👋 Reach out to me 
-  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&labelColor=EA4335&logo=Gmail&logoColor=white)](mailto:zack_zhengxiyun@163.com)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brennankbrown)](https://twitter.com/zackzheng94)
-  
-<hr/>
 <p>
 <a href="https://github.com/zack-xy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zack-xy&theme=buefy&show_icons=true" />
