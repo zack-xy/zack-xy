@@ -9,10 +9,10 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and [blogger](http
 
 <hr/>
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p>
 
-[![zack's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zack-xy&bg_color=ffffff&color=765005&line=09a7d3&point=f47a75&area=true&hide_border=true)](https://github.com/zack-xy/zack-xy)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-xy&theme=buefy&layout=compact" />
 
 </p>
