@@ -13,6 +13,6 @@ Hey there! :smile: My name is Zack Zheng. I'm a web developer and [blogger](http
 
 <p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-xy&theme=buefy&layout=compact" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-xy&theme=buefy&layout=compact" /> -->
 
 </p>
